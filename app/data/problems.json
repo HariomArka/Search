@@ -1,0 +1,307 @@
+[
+  {
+    "title": "Two Sum",
+    "topics": [
+      "array",
+      "hashmap"
+    ],
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "title": "3Sum",
+    "topics": [
+      "array",
+      "two pointers"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/3sum/"
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "topics": [
+      "string",
+      "sliding window"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+  },
+  {
+    "title": "Valid Parentheses",
+    "topics": [
+      "stack"
+    ],
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/valid-parentheses/"
+  },
+  {
+    "title": "Merge Intervals",
+    "topics": [
+      "intervals",
+      "sorting"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
+    "title": "Binary Tree Inorder Traversal",
+    "topics": [
+      "tree",
+      "dfs"
+    ],
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+  },
+  {
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "topics": [
+      "tree",
+      "dfs"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+  },
+  {
+    "title": "Word Break",
+    "topics": [
+      "dp",
+      "string"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/word-break/"
+  },
+  {
+    "title": "Longest Increasing Subsequence",
+    "topics": [
+      "dp",
+      "binary search"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/"
+  },
+  {
+    "title": "Coin Change",
+    "topics": [
+      "dp"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/coin-change/"
+  },
+  {
+    "title": "N-Queens",
+    "topics": [
+      "backtracking"
+    ],
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/n-queens/"
+  },
+  {
+    "title": "Sudoku Solver",
+    "topics": [
+      "backtracking"
+    ],
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/sudoku-solver/"
+  },
+  {
+    "title": "Top K Frequent Elements",
+    "topics": [
+      "heap",
+      "bucket sort"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/top-k-frequent-elements/"
+  },
+  {
+    "title": "Kth Largest Element in an Array",
+    "topics": [
+      "heap",
+      "quickselect"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+  },
+  {
+    "title": "Find Median from Data Stream",
+    "topics": [
+      "heap",
+      "two heaps"
+    ],
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/find-median-from-data-stream/"
+  },
+  {
+    "title": "Minimum Window Substring",
+    "topics": [
+      "sliding window",
+      "hashmap"
+    ],
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/minimum-window-substring/"
+  },
+  {
+    "title": "Longest Palindromic Substring",
+    "topics": [
+      "string",
+      "dp"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/longest-palindromic-substring/"
+  },
+  {
+    "title": "Trapping Rain Water",
+    "topics": [
+      "array",
+      "two pointers"
+    ],
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/trapping-rain-water/"
+  },
+  {
+    "title": "Climbing Stairs",
+    "topics": [
+      "dp"
+    ],
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/climbing-stairs/"
+  },
+  {
+    "title": "Reverse Linked List",
+    "topics": [
+      "linked list"
+    ],
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/reverse-linked-list/"
+  },
+  {
+    "title": "Merge Two Sorted Lists",
+    "topics": [
+      "linked list"
+    ],
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+  },
+  {
+    "title": "Detect Cycle in a Directed Graph",
+    "topics": [
+      "graph",
+      "dfs"
+    ],
+    "difficulty": "medium",
+    "platform": "GeeksforGeeks",
+    "url": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1"
+  },
+  {
+    "title": "Topological Sort",
+    "topics": [
+      "graph",
+      "bfs",
+      "dfs"
+    ],
+    "difficulty": "medium",
+    "platform": "GeeksforGeeks",
+    "url": "https://practice.geeksforgeeks.org/problems/topological-sort/1"
+  },
+  {
+    "title": "Dijkstra's Algorithm",
+    "topics": [
+      "graph",
+      "dijkstra"
+    ],
+    "difficulty": "medium",
+    "platform": "GeeksforGeeks",
+    "url": "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
+  },
+  {
+    "title": "Kruskal\u2019s Minimum Spanning Tree",
+    "topics": [
+      "graph",
+      "greedy",
+      "union-find"
+    ],
+    "difficulty": "medium",
+    "platform": "GeeksforGeeks",
+    "url": "https://practice.geeksforgeeks.org/problems/kruskals-minimum-spanning-tree-algorithm/1"
+  },
+  {
+    "title": "Union-Find",
+    "topics": [
+      "dsu",
+      "union-find"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/redundant-connection/"
+  },
+  {
+    "title": "Rotting Oranges",
+    "topics": [
+      "bfs",
+      "matrix"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/rotting-oranges/"
+  },
+  {
+    "title": "Number of Islands",
+    "topics": [
+      "dfs",
+      "matrix"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/number-of-islands/"
+  },
+  {
+    "title": "Word Ladder",
+    "topics": [
+      "bfs"
+    ],
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/word-ladder/"
+  },
+  {
+    "title": "Sliding Window Maximum",
+    "topics": [
+      "deque",
+      "sliding window"
+    ],
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/sliding-window-maximum/"
+  },
+  {
+    "title": "Minimum Cost to Connect All Points",
+    "topics": [
+      "prim",
+      "graph",
+      "greedy"
+    ],
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/"
+  }
+]
