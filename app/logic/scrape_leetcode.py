@@ -1,21 +1,27 @@
 import requests
 import json
 
-def scrape_leetcode_problems(limit=100):
+def scrape_leetcode_problems(limit=200):
+    print("🔍 Starting LeetCode scrape...")
+
     url = "https://leetcode.com/graphql"
     query = """
-    query questionList($limit: Int, $skip: Int) {
-      problemsetQuestionList: questionList(
-        categorySlug: ""
-        limit: $limit
-        skip: $skip
+    query problemsetQuestionList($categorySlug: String, $limit: Int, $skip: Int, $filters: QuestionListFilterInput) {
+      questionList(
+        categorySlug: $categorySlug,
+        limit: $limit,
+        skip: $skip,
+        filters: $filters
       ) {
-        questions {
+        totalNum
+        data {
           title
           titleSlug
           difficulty
+          isPaidOnly
           topicTags {
             name
+            slug
           }
         }
       }
@@ -33,25 +39,27 @@ def scrape_leetcode_problems(limit=100):
     batch_size = 50
 
     while len(problems) < limit:
+        print(f"Fetching LeetCode batch: skip={skip}")
         payload = {
             "query": query,
-            "variables": {"limit": batch_size, "skip": skip}
+            "variables": {
+                "categorySlug": "",
+                "skip": skip,
+                "limit": batch_size,
+                "filters": {}
+            }
         }
 
-        response = requests.post(url, json=payload, headers=headers)
-
         try:
-            data = response.json()
+            res = requests.post(url, json=payload, headers=headers, timeout=10)
+            data = res.json()
+            questions = data["data"]["questionList"]["data"]
         except Exception as e:
-            print("Failed to parse JSON response:", e)
-            print("Response content:\n", response.text)
-            return
+            print("❌ LeetCode error:", e)
+            print("Raw response:\n", res.text if 'res' in locals() else "No response received.")
+            return []
 
-        if "data" not in data or "problemsetQuestionList" not in data["data"]:
-            print("Unexpected response structure. Full response:\n", json.dumps(data, indent=2))
-            return
-
-        questions = data["data"]["problemsetQuestionList"]["questions"]
+        print(f"✅ Received {len(questions)} questions")
 
         for q in questions:
             problems.append({
@@ -66,11 +74,5 @@ def scrape_leetcode_problems(limit=100):
         if not questions:
             break
 
-    with open("app/data/leetcode_problems.json", "w") as f:
-        json.dump(problems[:limit], f, indent=2)
-
-    print(f"Scraped {len(problems[:limit])} problems from LeetCode.")
-
-
-if __name__ == "__main__":
-    scrape_leetcode_problems(limit=200)
+    print(f"✅ Total LeetCode problems scraped: {len(problems[:limit])}")
+    return problems[:limit]

@@ -1,0 +1,2226 @@
+[
+  {
+    "title": "Two Sum",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "hash table"
+    ],
+    "url": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "title": "Add Two Numbers",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "linked list",
+      "math",
+      "recursion"
+    ],
+    "url": "https://leetcode.com/problems/add-two-numbers/"
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "hash table",
+      "string",
+      "sliding window"
+    ],
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+  },
+  {
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "binary search",
+      "divide and conquer"
+    ],
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+  },
+  {
+    "title": "Longest Palindromic Substring",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "two pointers",
+      "string",
+      "dynamic programming"
+    ],
+    "url": "https://leetcode.com/problems/longest-palindromic-substring/"
+  },
+  {
+    "title": "Zigzag Conversion",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "string"
+    ],
+    "url": "https://leetcode.com/problems/zigzag-conversion/"
+  },
+  {
+    "title": "Reverse Integer",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "math"
+    ],
+    "url": "https://leetcode.com/problems/reverse-integer/"
+  },
+  {
+    "title": "String to Integer (atoi)",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "string"
+    ],
+    "url": "https://leetcode.com/problems/string-to-integer-atoi/"
+  },
+  {
+    "title": "Palindrome Number",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "math"
+    ],
+    "url": "https://leetcode.com/problems/palindrome-number/"
+  },
+  {
+    "title": "Regular Expression Matching",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "dynamic programming",
+      "recursion"
+    ],
+    "url": "https://leetcode.com/problems/regular-expression-matching/"
+  },
+  {
+    "title": "Container With Most Water",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "two pointers",
+      "greedy"
+    ],
+    "url": "https://leetcode.com/problems/container-with-most-water/"
+  },
+  {
+    "title": "Integer to Roman",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "hash table",
+      "math",
+      "string"
+    ],
+    "url": "https://leetcode.com/problems/integer-to-roman/"
+  },
+  {
+    "title": "Roman to Integer",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "hash table",
+      "math",
+      "string"
+    ],
+    "url": "https://leetcode.com/problems/roman-to-integer/"
+  },
+  {
+    "title": "Longest Common Prefix",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "trie"
+    ],
+    "url": "https://leetcode.com/problems/longest-common-prefix/"
+  },
+  {
+    "title": "3Sum",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "two pointers",
+      "sorting"
+    ],
+    "url": "https://leetcode.com/problems/3sum/"
+  },
+  {
+    "title": "3Sum Closest",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "two pointers",
+      "sorting"
+    ],
+    "url": "https://leetcode.com/problems/3sum-closest/"
+  },
+  {
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "hash table",
+      "string",
+      "backtracking"
+    ],
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+  },
+  {
+    "title": "4Sum",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "two pointers",
+      "sorting"
+    ],
+    "url": "https://leetcode.com/problems/4sum/"
+  },
+  {
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "linked list",
+      "two pointers"
+    ],
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+  },
+  {
+    "title": "Valid Parentheses",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "stack"
+    ],
+    "url": "https://leetcode.com/problems/valid-parentheses/"
+  },
+  {
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "linked list",
+      "recursion"
+    ],
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+  },
+  {
+    "title": "Generate Parentheses",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "dynamic programming",
+      "backtracking"
+    ],
+    "url": "https://leetcode.com/problems/generate-parentheses/"
+  },
+  {
+    "title": "Merge k Sorted Lists",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "linked list",
+      "divide and conquer",
+      "heap (priority queue)",
+      "merge sort"
+    ],
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists/"
+  },
+  {
+    "title": "Swap Nodes in Pairs",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "linked list",
+      "recursion"
+    ],
+    "url": "https://leetcode.com/problems/swap-nodes-in-pairs/"
+  },
+  {
+    "title": "Reverse Nodes in k-Group",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "linked list",
+      "recursion"
+    ],
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+  },
+  {
+    "title": "Remove Duplicates from Sorted Array",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "two pointers"
+    ],
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+  },
+  {
+    "title": "Remove Element",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "two pointers"
+    ],
+    "url": "https://leetcode.com/problems/remove-element/"
+  },
+  {
+    "title": "Find the Index of the First Occurrence in a String",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "two pointers",
+      "string",
+      "string matching"
+    ],
+    "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+  },
+  {
+    "title": "Divide Two Integers",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "math",
+      "bit manipulation"
+    ],
+    "url": "https://leetcode.com/problems/divide-two-integers/"
+  },
+  {
+    "title": "Substring with Concatenation of All Words",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "hash table",
+      "string",
+      "sliding window"
+    ],
+    "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+  },
+  {
+    "title": "Next Permutation",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "two pointers"
+    ],
+    "url": "https://leetcode.com/problems/next-permutation/"
+  },
+  {
+    "title": "Longest Valid Parentheses",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "dynamic programming",
+      "stack"
+    ],
+    "url": "https://leetcode.com/problems/longest-valid-parentheses/"
+  },
+  {
+    "title": "Search in Rotated Sorted Array",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "binary search"
+    ],
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+  },
+  {
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "binary search"
+    ],
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
+  },
+  {
+    "title": "Search Insert Position",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "binary search"
+    ],
+    "url": "https://leetcode.com/problems/search-insert-position/"
+  },
+  {
+    "title": "Valid Sudoku",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "hash table",
+      "matrix"
+    ],
+    "url": "https://leetcode.com/problems/valid-sudoku/"
+  },
+  {
+    "title": "Sudoku Solver",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "hash table",
+      "backtracking",
+      "matrix"
+    ],
+    "url": "https://leetcode.com/problems/sudoku-solver/"
+  },
+  {
+    "title": "Count and Say",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "string"
+    ],
+    "url": "https://leetcode.com/problems/count-and-say/"
+  },
+  {
+    "title": "Combination Sum",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "backtracking"
+    ],
+    "url": "https://leetcode.com/problems/combination-sum/"
+  },
+  {
+    "title": "Combination Sum II",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "backtracking"
+    ],
+    "url": "https://leetcode.com/problems/combination-sum-ii/"
+  },
+  {
+    "title": "First Missing Positive",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "hash table"
+    ],
+    "url": "https://leetcode.com/problems/first-missing-positive/"
+  },
+  {
+    "title": "Trapping Rain Water",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "two pointers",
+      "dynamic programming",
+      "stack",
+      "monotonic stack"
+    ],
+    "url": "https://leetcode.com/problems/trapping-rain-water/"
+  },
+  {
+    "title": "Multiply Strings",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "math",
+      "string",
+      "simulation"
+    ],
+    "url": "https://leetcode.com/problems/multiply-strings/"
+  },
+  {
+    "title": "Wildcard Matching",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "dynamic programming",
+      "greedy",
+      "recursion"
+    ],
+    "url": "https://leetcode.com/problems/wildcard-matching/"
+  },
+  {
+    "title": "Jump Game II",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "dynamic programming",
+      "greedy"
+    ],
+    "url": "https://leetcode.com/problems/jump-game-ii/"
+  },
+  {
+    "title": "Permutations",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "backtracking"
+    ],
+    "url": "https://leetcode.com/problems/permutations/"
+  },
+  {
+    "title": "Permutations II",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "backtracking",
+      "sorting"
+    ],
+    "url": "https://leetcode.com/problems/permutations-ii/"
+  },
+  {
+    "title": "Rotate Image",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "math",
+      "matrix"
+    ],
+    "url": "https://leetcode.com/problems/rotate-image/"
+  },
+  {
+    "title": "Group Anagrams",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "hash table",
+      "string",
+      "sorting"
+    ],
+    "url": "https://leetcode.com/problems/group-anagrams/"
+  },
+  {
+    "title": "Pow(x, n)",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "math",
+      "recursion"
+    ],
+    "url": "https://leetcode.com/problems/powx-n/"
+  },
+  {
+    "title": "N-Queens",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "backtracking"
+    ],
+    "url": "https://leetcode.com/problems/n-queens/"
+  },
+  {
+    "title": "N-Queens II",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "backtracking"
+    ],
+    "url": "https://leetcode.com/problems/n-queens-ii/"
+  },
+  {
+    "title": "Maximum Subarray",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "divide and conquer",
+      "dynamic programming"
+    ],
+    "url": "https://leetcode.com/problems/maximum-subarray/"
+  },
+  {
+    "title": "Spiral Matrix",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "url": "https://leetcode.com/problems/spiral-matrix/"
+  },
+  {
+    "title": "Jump Game",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "dynamic programming",
+      "greedy"
+    ],
+    "url": "https://leetcode.com/problems/jump-game/"
+  },
+  {
+    "title": "Merge Intervals",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "sorting"
+    ],
+    "url": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
+    "title": "Insert Interval",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array"
+    ],
+    "url": "https://leetcode.com/problems/insert-interval/"
+  },
+  {
+    "title": "Length of Last Word",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "string"
+    ],
+    "url": "https://leetcode.com/problems/length-of-last-word/"
+  },
+  {
+    "title": "Spiral Matrix II",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "matrix",
+      "simulation"
+    ],
+    "url": "https://leetcode.com/problems/spiral-matrix-ii/"
+  },
+  {
+    "title": "Permutation Sequence",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "math",
+      "recursion"
+    ],
+    "url": "https://leetcode.com/problems/permutation-sequence/"
+  },
+  {
+    "title": "Rotate List",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "linked list",
+      "two pointers"
+    ],
+    "url": "https://leetcode.com/problems/rotate-list/"
+  },
+  {
+    "title": "Unique Paths",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "math",
+      "dynamic programming",
+      "combinatorics"
+    ],
+    "url": "https://leetcode.com/problems/unique-paths/"
+  },
+  {
+    "title": "Unique Paths II",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "dynamic programming",
+      "matrix"
+    ],
+    "url": "https://leetcode.com/problems/unique-paths-ii/"
+  },
+  {
+    "title": "Minimum Path Sum",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "dynamic programming",
+      "matrix"
+    ],
+    "url": "https://leetcode.com/problems/minimum-path-sum/"
+  },
+  {
+    "title": "Valid Number",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "string"
+    ],
+    "url": "https://leetcode.com/problems/valid-number/"
+  },
+  {
+    "title": "Plus One",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "math"
+    ],
+    "url": "https://leetcode.com/problems/plus-one/"
+  },
+  {
+    "title": "Add Binary",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "math",
+      "string",
+      "bit manipulation",
+      "simulation"
+    ],
+    "url": "https://leetcode.com/problems/add-binary/"
+  },
+  {
+    "title": "Text Justification",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "string",
+      "simulation"
+    ],
+    "url": "https://leetcode.com/problems/text-justification/"
+  },
+  {
+    "title": "Sqrt(x)",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "math",
+      "binary search"
+    ],
+    "url": "https://leetcode.com/problems/sqrtx/"
+  },
+  {
+    "title": "Climbing Stairs",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "math",
+      "dynamic programming",
+      "memoization"
+    ],
+    "url": "https://leetcode.com/problems/climbing-stairs/"
+  },
+  {
+    "title": "Simplify Path",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "stack"
+    ],
+    "url": "https://leetcode.com/problems/simplify-path/"
+  },
+  {
+    "title": "Edit Distance",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "dynamic programming"
+    ],
+    "url": "https://leetcode.com/problems/edit-distance/"
+  },
+  {
+    "title": "Set Matrix Zeroes",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "hash table",
+      "matrix"
+    ],
+    "url": "https://leetcode.com/problems/set-matrix-zeroes/"
+  },
+  {
+    "title": "Search a 2D Matrix",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "binary search",
+      "matrix"
+    ],
+    "url": "https://leetcode.com/problems/search-a-2d-matrix/"
+  },
+  {
+    "title": "Sort Colors",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "two pointers",
+      "sorting"
+    ],
+    "url": "https://leetcode.com/problems/sort-colors/"
+  },
+  {
+    "title": "Minimum Window Substring",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "hash table",
+      "string",
+      "sliding window"
+    ],
+    "url": "https://leetcode.com/problems/minimum-window-substring/"
+  },
+  {
+    "title": "Combinations",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "backtracking"
+    ],
+    "url": "https://leetcode.com/problems/combinations/"
+  },
+  {
+    "title": "Subsets",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "backtracking",
+      "bit manipulation"
+    ],
+    "url": "https://leetcode.com/problems/subsets/"
+  },
+  {
+    "title": "Word Search",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "string",
+      "backtracking",
+      "depth-first search",
+      "matrix"
+    ],
+    "url": "https://leetcode.com/problems/word-search/"
+  },
+  {
+    "title": "Remove Duplicates from Sorted Array II",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "two pointers"
+    ],
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
+  },
+  {
+    "title": "Search in Rotated Sorted Array II",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "binary search"
+    ],
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/"
+  },
+  {
+    "title": "Remove Duplicates from Sorted List II",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "linked list",
+      "two pointers"
+    ],
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/"
+  },
+  {
+    "title": "Remove Duplicates from Sorted List",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "linked list"
+    ],
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/"
+  },
+  {
+    "title": "Largest Rectangle in Histogram",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "stack",
+      "monotonic stack"
+    ],
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+  },
+  {
+    "title": "Maximal Rectangle",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "dynamic programming",
+      "stack",
+      "matrix",
+      "monotonic stack"
+    ],
+    "url": "https://leetcode.com/problems/maximal-rectangle/"
+  },
+  {
+    "title": "Partition List",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "linked list",
+      "two pointers"
+    ],
+    "url": "https://leetcode.com/problems/partition-list/"
+  },
+  {
+    "title": "Scramble String",
+    "difficulty": "hard",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "dynamic programming"
+    ],
+    "url": "https://leetcode.com/problems/scramble-string/"
+  },
+  {
+    "title": "Merge Sorted Array",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "two pointers",
+      "sorting"
+    ],
+    "url": "https://leetcode.com/problems/merge-sorted-array/"
+  },
+  {
+    "title": "Gray Code",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "math",
+      "backtracking",
+      "bit manipulation"
+    ],
+    "url": "https://leetcode.com/problems/gray-code/"
+  },
+  {
+    "title": "Subsets II",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "array",
+      "backtracking",
+      "bit manipulation"
+    ],
+    "url": "https://leetcode.com/problems/subsets-ii/"
+  },
+  {
+    "title": "Decode Ways",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "dynamic programming"
+    ],
+    "url": "https://leetcode.com/problems/decode-ways/"
+  },
+  {
+    "title": "Reverse Linked List II",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "linked list"
+    ],
+    "url": "https://leetcode.com/problems/reverse-linked-list-ii/"
+  },
+  {
+    "title": "Restore IP Addresses",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "backtracking"
+    ],
+    "url": "https://leetcode.com/problems/restore-ip-addresses/"
+  },
+  {
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "stack",
+      "tree",
+      "depth-first search",
+      "binary tree"
+    ],
+    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+  },
+  {
+    "title": "Unique Binary Search Trees II",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "dynamic programming",
+      "backtracking",
+      "tree",
+      "binary search tree",
+      "binary tree"
+    ],
+    "url": "https://leetcode.com/problems/unique-binary-search-trees-ii/"
+  },
+  {
+    "title": "Unique Binary Search Trees",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "math",
+      "dynamic programming",
+      "tree",
+      "binary search tree",
+      "binary tree"
+    ],
+    "url": "https://leetcode.com/problems/unique-binary-search-trees/"
+  },
+  {
+    "title": "Interleaving String",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "string",
+      "dynamic programming"
+    ],
+    "url": "https://leetcode.com/problems/interleaving-string/"
+  },
+  {
+    "title": "Validate Binary Search Tree",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "tree",
+      "depth-first search",
+      "binary search tree",
+      "binary tree"
+    ],
+    "url": "https://leetcode.com/problems/validate-binary-search-tree/"
+  },
+  {
+    "title": "Recover Binary Search Tree",
+    "difficulty": "medium",
+    "platform": "LeetCode",
+    "topics": [
+      "tree",
+      "depth-first search",
+      "binary search tree",
+      "binary tree"
+    ],
+    "url": "https://leetcode.com/problems/recover-binary-search-tree/"
+  },
+  {
+    "title": "Same Tree",
+    "difficulty": "easy",
+    "platform": "LeetCode",
+    "topics": [
+      "tree",
+      "depth-first search",
+      "breadth-first search",
+      "binary tree"
+    ],
+    "url": "https://leetcode.com/problems/same-tree/"
+  },
+  {
+    "title": "Ice Baby",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "implementation",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/H"
+  },
+  {
+    "title": "Gangsta",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "data structures",
+      "divide and conquer",
+      "math",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/G"
+  },
+  {
+    "title": "Yamakasi",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "greedy",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/F"
+  },
+  {
+    "title": "Sponsor of Your Problems",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "dp",
+      "greedy",
+      "implementation",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/E"
+  },
+  {
+    "title": "1709",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "implementation",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/D"
+  },
+  {
+    "title": "Those Who Are With Us",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "greedy",
+      "greedy",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/C"
+  },
+  {
+    "title": "Above the Clouds",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "greedy",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/B"
+  },
+  {
+    "title": "Letter Home",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2121/A"
+  },
+  {
+    "title": "Eulerian Line Graph",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "graphs",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/G"
+  },
+  {
+    "title": "Superb Graphs",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "2-sat",
+      "graphs"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/F"
+  },
+  {
+    "title": "Lanes of Cars",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "dp",
+      "ternary search"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/E"
+  },
+  {
+    "title": "Matrix game",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "combinatorics",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/D"
+  },
+  {
+    "title": "Divine Tree",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/C"
+  },
+  {
+    "title": "Square Pool",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "geometry"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/B"
+  },
+  {
+    "title": "Square of Rectangles",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "geometry",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2120/A"
+  },
+  {
+    "title": "Shifts and Swaps",
+    "difficulty": "level 3100",
+    "platform": "Codeforces",
+    "topics": [
+      "data structures",
+      "graphs",
+      "hashing",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/F"
+  },
+  {
+    "title": "Grid Coloring",
+    "difficulty": "level 2400",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/E"
+  },
+  {
+    "title": "Red Light, Green Light (Hard version)",
+    "difficulty": "level 2200",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "implementation",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/D2"
+  },
+  {
+    "title": "Red Light, Green Light (Easy version)",
+    "difficulty": "level 1700",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "implementation",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/D1"
+  },
+  {
+    "title": "Make It Beautiful",
+    "difficulty": "level 1300",
+    "platform": "Codeforces",
+    "topics": [
+      "bitmasks",
+      "data structures",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/C"
+  },
+  {
+    "title": "Make It Permutation",
+    "difficulty": "level 1200",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/B"
+  },
+  {
+    "title": "Equal Subsequences",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2118/A"
+  },
+  {
+    "title": "Incessant Rain",
+    "difficulty": "level 2500",
+    "platform": "Codeforces",
+    "topics": [
+      "data structures",
+      "divide and conquer",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/H"
+  },
+  {
+    "title": "Omg Graph",
+    "difficulty": "level 1900",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "dsu",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/G"
+  },
+  {
+    "title": "Wildflower",
+    "difficulty": "level 1800",
+    "platform": "Codeforces",
+    "topics": [
+      "combinatorics",
+      "dfs and similar",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/F"
+  },
+  {
+    "title": "Lost Soul",
+    "difficulty": "level 1600",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/E"
+  },
+  {
+    "title": "Retaliation",
+    "difficulty": "level 1200",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/D"
+  },
+  {
+    "title": "Cool Partition",
+    "difficulty": "level 1200",
+    "platform": "Codeforces",
+    "topics": [
+      "data structures",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/C"
+  },
+  {
+    "title": "Shrink",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/B"
+  },
+  {
+    "title": "False Alarm",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "greedy",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2117/A"
+  },
+  {
+    "title": "Gellyfish and Baby's Breath",
+    "difficulty": "level 1300",
+    "platform": "Codeforces",
+    "topics": [
+      "greedy",
+      "math",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2116/B"
+  },
+  {
+    "title": "Gellyfish and Tricolor Pansy",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "games",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2116/A"
+  },
+  {
+    "title": "Gellyfish and Lycoris Radiata (Hard Version)",
+    "difficulty": "level 3500",
+    "platform": "Codeforces",
+    "topics": [
+      "data structures"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2115/F2"
+  },
+  {
+    "title": "Gellyfish and Lycoris Radiata (Easy Version)",
+    "difficulty": "level 3500",
+    "platform": "Codeforces",
+    "topics": [
+      "data structures"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2115/F1"
+  },
+  {
+    "title": "Gellyfish and Mayflower",
+    "difficulty": "level 3500",
+    "platform": "Codeforces",
+    "topics": [
+      "dp",
+      "graphs"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2115/E"
+  },
+  {
+    "title": "Gellyfish and Forget-Me-Not",
+    "difficulty": "level 2900",
+    "platform": "Codeforces",
+    "topics": [
+      "bitmasks",
+      "dp",
+      "games",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2115/D"
+  },
+  {
+    "title": "Gellyfish and Eternal Violet",
+    "difficulty": "level 2700",
+    "platform": "Codeforces",
+    "topics": [
+      "combinatorics",
+      "dp",
+      "greedy",
+      "math",
+      "probabilities"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2115/C"
+  },
+  {
+    "title": "Gellyfish and Camellia Japonica",
+    "difficulty": "level 2100",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2115/B"
+  },
+  {
+    "title": "Gellyfish and Flaming Peony",
+    "difficulty": "level 1500",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "dp",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2115/A"
+  },
+  {
+    "title": "Build an Array",
+    "difficulty": "level 2200",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/G"
+  },
+  {
+    "title": "Small Operations",
+    "difficulty": "level 2000",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "math",
+      "number theory",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/F"
+  },
+  {
+    "title": "Kirei Attacks the Estate",
+    "difficulty": "level 1400",
+    "platform": "Codeforces",
+    "topics": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/E"
+  },
+  {
+    "title": "Come a Little Closer",
+    "difficulty": "level 1400",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/D"
+  },
+  {
+    "title": "Need More Arrays",
+    "difficulty": "level 1000",
+    "platform": "Codeforces",
+    "topics": [
+      "dp",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/C"
+  },
+  {
+    "title": "Not Quite a Palindromic String",
+    "difficulty": "level 900",
+    "platform": "Codeforces",
+    "topics": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/B"
+  },
+  {
+    "title": "Square Year",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "brute force",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2114/A"
+  },
+  {
+    "title": "Two Arrays",
+    "difficulty": "level 2500",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2113/F"
+  },
+  {
+    "title": "From Kazan with Love",
+    "difficulty": "level 2800",
+    "platform": "Codeforces",
+    "topics": [
+      "dfs and similar",
+      "graphs",
+      "implementation",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2113/E"
+  },
+  {
+    "title": "Cheater",
+    "difficulty": "level 2200",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2113/D"
+  },
+  {
+    "title": "Smilo and Minecraft",
+    "difficulty": "level 1700",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "constructive algorithms",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2113/C"
+  },
+  {
+    "title": "Good Start",
+    "difficulty": "level 1200",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2113/B"
+  },
+  {
+    "title": "Shashliks",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2113/A"
+  },
+  {
+    "title": "Variables and Operations",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2112/F"
+  },
+  {
+    "title": "Tree Colorings",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "combinatorics",
+      "dp",
+      "graphs",
+      "math",
+      "number theory",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2112/E"
+  },
+  {
+    "title": "Reachability and Tree",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2112/D"
+  },
+  {
+    "title": "Coloring Game",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2112/C"
+  },
+  {
+    "title": "Shrinking Array",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2112/B"
+  },
+  {
+    "title": "Race",
+    "difficulty": "level N/A",
+    "platform": "Codeforces",
+    "topics": [
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2112/A"
+  },
+  {
+    "title": "Divisible Subarrays",
+    "difficulty": "level 2900",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "data structures",
+      "interactive"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2111/G"
+  },
+  {
+    "title": "Puzzle",
+    "difficulty": "level 2400",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2111/F"
+  },
+  {
+    "title": "Changing the String",
+    "difficulty": "level 1900",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2111/E"
+  },
+  {
+    "title": "Creating a Schedule",
+    "difficulty": "level 1400",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2111/D"
+  },
+  {
+    "title": "Equal Values",
+    "difficulty": "level 1100",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "greedy",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2111/C"
+  },
+  {
+    "title": "Fibonacci Cubes",
+    "difficulty": "level 1100",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "dp",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2111/B"
+  },
+  {
+    "title": "Energy Crystals",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2111/A"
+  },
+  {
+    "title": "Faculty",
+    "difficulty": "level 2400",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2110/F"
+  },
+  {
+    "title": "Melody",
+    "difficulty": "level 2300",
+    "platform": "Codeforces",
+    "topics": [
+      "dfs and similar",
+      "graphs",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2110/E"
+  },
+  {
+    "title": "Fewer Batteries",
+    "difficulty": "level 1700",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "hashing"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2110/D"
+  },
+  {
+    "title": "Racing",
+    "difficulty": "level 1400",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2110/C"
+  },
+  {
+    "title": "Down with Brackets",
+    "difficulty": "level 900",
+    "platform": "Codeforces",
+    "topics": [
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2110/B"
+  },
+  {
+    "title": "Fashionable Array",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "implementation",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2110/A"
+  },
+  {
+    "title": "Penguin Steps",
+    "difficulty": "level 3000",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "dfs and similar",
+      "flows",
+      "graphs",
+      "shortest paths"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2109/F"
+  },
+  {
+    "title": "Binary String Wowee",
+    "difficulty": "level 2400",
+    "platform": "Codeforces",
+    "topics": [
+      "combinatorics",
+      "dp",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2109/E"
+  },
+  {
+    "title": "D/D/D",
+    "difficulty": "level 1900",
+    "platform": "Codeforces",
+    "topics": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "shortest paths"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2109/D"
+  },
+  {
+    "title": "Hacking Numbers (Hard Version)",
+    "difficulty": "level 2600",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2109/C3"
+  },
+  {
+    "title": "Hacking Numbers (Medium Version)",
+    "difficulty": "level 1700",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2109/C2"
+  },
+  {
+    "title": "Hacking Numbers (Easy Version)",
+    "difficulty": "level 1500",
+    "platform": "Codeforces",
+    "topics": [
+      "bitmasks",
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2109/C1"
+  },
+  {
+    "title": "Slice to Survive",
+    "difficulty": "level 1200",
+    "platform": "Codeforces",
+    "topics": [
+      "bitmasks",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2109/B"
+  },
+  {
+    "title": "It's Time To Duel",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2109/A"
+  },
+  {
+    "title": "Fallen Towers",
+    "difficulty": "level 2900",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2108/F"
+  },
+  {
+    "title": "Spruce Dispute",
+    "difficulty": "level 2600",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "implementation",
+      "shortest paths",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2108/E"
+  },
+  {
+    "title": "Needle in a Numstack",
+    "difficulty": "level 2200",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "interactive"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2108/D"
+  },
+  {
+    "title": "Neo's Escape",
+    "difficulty": "level 1500",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2108/C"
+  },
+  {
+    "title": "SUMdamental Decomposition",
+    "difficulty": "level 1300",
+    "platform": "Codeforces",
+    "topics": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2108/B"
+  },
+  {
+    "title": "Permutation Warm-Up",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "combinatorics",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2108/A"
+  },
+  {
+    "title": "Cycling (Hard Version)",
+    "difficulty": "level 2800",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2107/F2"
+  },
+  {
+    "title": "Cycling (Easy Version)",
+    "difficulty": "level 2300",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "brute force",
+      "dp",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2107/F1"
+  },
+  {
+    "title": "Ain and Apple Tree",
+    "difficulty": "level 2600",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2107/E"
+  },
+  {
+    "title": "Apple Tree Traversing",
+    "difficulty": "level 2100",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "dfs and similar",
+      "greedy",
+      "implementation",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2107/D"
+  },
+  {
+    "title": "Maximum Subarray Sum",
+    "difficulty": "level 1500",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "constructive algorithms",
+      "dp",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2107/C"
+  },
+  {
+    "title": "Apples in Boxes",
+    "difficulty": "level 1100",
+    "platform": "Codeforces",
+    "topics": [
+      "games",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2107/B"
+  },
+  {
+    "title": "LRC and VIP",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "greedy",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2107/A"
+  },
+  {
+    "title": "Baudelaire (hard version)",
+    "difficulty": "level 2500",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "dfs and similar",
+      "divide and conquer",
+      "implementation",
+      "interactive",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2106/G2"
+  },
+  {
+    "title": "Baudelaire (easy version)",
+    "difficulty": "level 2200",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "constructive algorithms",
+      "divide and conquer",
+      "greedy",
+      "interactive",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2106/G1"
+  },
+  {
+    "title": "Goblin",
+    "difficulty": "level 1900",
+    "platform": "Codeforces",
+    "topics": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2106/F"
+  },
+  {
+    "title": "Wolf",
+    "difficulty": "level 1800",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2106/E"
+  },
+  {
+    "title": "Flower Boy",
+    "difficulty": "level 1500",
+    "platform": "Codeforces",
+    "topics": [
+      "binary search",
+      "dp",
+      "greedy",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2106/D"
+  },
+  {
+    "title": "Cherry Bomb",
+    "difficulty": "level 1000",
+    "platform": "Codeforces",
+    "topics": [
+      "greedy",
+      "math",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2106/C"
+  },
+  {
+    "title": "St. Chroma",
+    "difficulty": "level 900",
+    "platform": "Codeforces",
+    "topics": [
+      "constructive algorithms",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2106/B"
+  },
+  {
+    "title": "Dr. TC",
+    "difficulty": "level 800",
+    "platform": "Codeforces",
+    "topics": [
+      "brute force",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2106/A"
+  }
+]
